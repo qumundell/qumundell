@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome!
+
+You have found your way to Quin Mundell's GitHub page 🎉, let me give you the rundown..
+
+Currently I am a student at Solent University in Southampton, England. Here I study Software Engineering Bsc, before this I did an education at Barton Peveril College with qualifications in Maths, Further Maths and Computer Science.
+
+
 
 <!--
 **qumundell/qumundell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
