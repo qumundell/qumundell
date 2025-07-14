@@ -3,6 +3,7 @@
 You have found your way to Quin Mundell's GitHub page 🎉, let me give you the rundown..
 
 In 2025, I graduated from Solent University in Southampton, England. I was studying Software Engineering Bsc and I graduated with a First Class Honors.
+
 Before this I did an education at Barton Peveril College with qualifications in Maths, Further Maths and Computer Science.
 
 
